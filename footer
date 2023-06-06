@@ -1,0 +1,52 @@
+   <!-- footer section start -->
+   <footer class="bg-dark">
+    <div class="container">
+      <div class="row py-3 text-white" style="text-align:justify;">
+        <div class="col-md-3">
+          <ul class="list-unstyled">
+            <li><a href=""><img src="./assest/img/logo1 - Copy.png" alt="" height="150px"></a></li>
+            <li class="fw-bold fs-5">R.P.E. SCHOOL</li>
+            <li>Jaitipur, Chandi, Nalanda, Bihar</li>
+            <li>803108</li>
+          </ul>
+        </div>
+        <div class="col-md-3">
+          <p class="fw-bold fs-4">
+            <span class="fw-bold text-primary">|</span>
+             Recent Posts
+          </p>
+          <ul class="list-unstyled">
+            <li>Welcome back to R.P.E.SCHOOL</li>
+            <li>Hello World</li>
+            <li>Hello World</li>
+            <li>Hello World</li>
+          </ul>
+        </div>
+        <div class="col-md-3">
+          <p class="fw-bold fs-4">
+            <span class="fw-bold text-primary">|</span>
+             Quik Link
+          </p>
+          <ul class="list-unstyled" id="lin">
+            <li><a href="" class="text-white">Admission Inquiry</a></li>
+            <li><a href="" class="text-white">Fee Submission</a></li>
+            <li><a href="" class="text-white">Contact Us</a></li>
+            <li><a href="" class="text-white">Login</a></li>
+            <li><a href="" class="text-white">Register</a></li>
+          </ul>
+        </div>
+        <div class="col-md-3">
+          <p class="fw-bold fs-4">
+            <span class="fw-bold text-primary">|</span>
+             Contact Info
+          </p>
+          <ul class="list-unstyled">
+            <li><a href=""><i class="fa-solid fa-location-dot fs-3"></i></a></li>
+            <li><a href=""><i class="fa-solid fa-phone fs-3"></i></a></li>
+            <li><a href=""></a></li>
+          </ul>
+        </div>
+      </div>
+    </div>
+  </footer>
+  <!-- footer section end -->
